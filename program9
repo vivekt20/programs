@@ -1,0 +1,4 @@
+void main(){
+Set weekDays={"mon","tue","wed","thur","fri","sat");
+print("weekDays");
+}
